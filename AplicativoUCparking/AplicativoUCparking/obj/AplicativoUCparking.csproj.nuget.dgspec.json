@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProyectoUCParking\\AplicativoUCparking\\AplicativoUCparking\\AplicativoUCparking.csproj": {}
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\UCparking\\AplicativoUCparking\\AplicativoUCparking\\AplicativoUCparking.csproj": {}
   },
   "projects": {
-    "D:\\ProyectoUCParking\\AplicativoUCparking\\AplicativoUCparking\\AplicativoUCparking.csproj": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\UCparking\\AplicativoUCparking\\AplicativoUCparking\\AplicativoUCparking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectoUCParking\\AplicativoUCparking\\AplicativoUCparking\\AplicativoUCparking.csproj",
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\UCparking\\AplicativoUCparking\\AplicativoUCparking\\AplicativoUCparking.csproj",
         "projectName": "AplicativoUCparking",
-        "projectPath": "D:\\ProyectoUCParking\\AplicativoUCparking\\AplicativoUCparking\\AplicativoUCparking.csproj",
-        "packagesPath": "C:\\Users\\DAVID\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectoUCParking\\AplicativoUCparking\\AplicativoUCparking\\obj\\",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\UCparking\\AplicativoUCparking\\AplicativoUCparking\\AplicativoUCparking.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\UCparking\\AplicativoUCparking\\AplicativoUCparking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,7 +53,6 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
